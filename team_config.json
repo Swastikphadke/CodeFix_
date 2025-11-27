@@ -1,0 +1,9 @@
+{
+    "team_id": "Bob_the_fixer",
+    "seed": 42,
+    "grid_config": {
+        "traffic_lights": 3,
+        "cows": 2,
+        "pits": 4
+    }
+}
